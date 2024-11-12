@@ -42,3 +42,5 @@ Project Initial Report
 
 **Mobile-Friendly Interface:** Ensure a responsive and user-friendly design that works well on various devices, including smartphones and tablets, to accommodate users on the go.
 
+
+// sujal
